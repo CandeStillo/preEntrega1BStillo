@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "title": "Iphone 1",
+        "description": "Iphone 1 15gb",
+        "price": "$2000",
+        "thumbnail": "pic",
+        "code": 34531,
+        "stock": 40
+    },
+    {
+        "id": 2,
+        "title": "Iphone 2",
+        "description": "Iphone 2 64gb",
+        "price": "$4000",
+        "thumbnail": "pic",
+        "code": 9837,
+        "stock": 8
+    },
+    {
+        "id": 3,
+        "title": "Iphone 3",
+        "description": "Iphone 3 125gb",
+        "price": "$10000",
+        "thumbnail": "pic",
+        "code": 65783,
+        "stock": 22
+    },
+    {
+        "id": 4,
+        "title": "Iphone 4",
+        "description": "Iphone 4 64gb",
+        "price": "$9000",
+        "thumbnail": "pic",
+        "code": 7879,
+        "stock": 32
+    }
+]
